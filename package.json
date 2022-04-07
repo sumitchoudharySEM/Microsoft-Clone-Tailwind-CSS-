@@ -1,0 +1,26 @@
+{
+  "name": "microsoft-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitchoudharySEM/Microsoft-Clone-Tailwind-CSS-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitchoudharySEM/Microsoft-Clone-Tailwind-CSS-/issues"
+  },
+  "homepage": "https://github.com/sumitchoudharySEM/Microsoft-Clone-Tailwind-CSS-#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.9.1"
+  }
+}
